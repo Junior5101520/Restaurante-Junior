@@ -1,0 +1,413 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;500;600;700;800&display=swap');
+
+/*
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fefefe;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    background-image: url(./lechona-para-compartir-en-familia-scaled.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    min-height: 70vh;
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.menu .navbar ul li {
+    position: relative;
+    float: left;
+}
+
+.menu .navbar ul li a {
+    font-size: 20px;
+    padding: 20px;
+    color: #ffffff;
+    display: block;
+    font-weight: 600;
+}
+
+.menu .navbar ul li a:hover {
+    text-decoration: underline;
+}
+
+#menu {
+    display: none;
+}
+
+.menu-icono {
+    width: 25px;
+}
+
+.menu label {
+    cursor: pointer;
+    display: none;
+}
+
+
+.header-content {
+    width: 100%;
+}
+
+
+.header-txt {
+    width: 50%;
+}
+
+.oferta {
+    display: inline-block;
+    font-size: 16px;
+    padding: 5px 13px;
+    color: #ffffff;
+    border-radius: 25px;
+    text-transform: uppercase;
+    background-color: #f5be26;
+    margin-bottom: 35px;
+}
+
+.header-txt h1 {
+    font-size: 110px;
+    line-height: 110px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #ffffff;
+    margin-bottom: 35px;
+
+}
+
+.btn-1 {
+    display: inline-block;
+    padding: 13px 35px;
+    background-color: #e83d2c;
+    color: #ffffff;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.btn-1:hover {
+    background-color: #e83d2c;
+ 
+}
+
+.about {
+    padding: 100px 0 0 0;
+    display: flex;
+    align-items: center;
+}
+
+.about-img {
+    width: 60%;
+    text-align: center;
+}
+
+.about-img img {
+    height:500px;
+}
+
+.about-txt {
+    width: 50%;
+}
+
+h2 {
+    font-size: 55px;
+    line-height: 70px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    color: #101010;
+}
+
+
+p {
+    font-size: 16px;
+    color: #727272;
+    margin-bottom: 25px;
+}
+
+
+.ofert {
+    padding: 100px 0;
+    display: flex;
+}
+
+
+.ofert img {
+    width: 400px;
+}
+
+
+.product {
+    text-align: center;
+    padding: 0 0 100px 0;
+}
+
+
+.product-content {
+    margin: 50px 0 70px 0;
+    display: grid;
+    grid-template-columns: repeat(0,1fr);
+}
+
+.product-1 {
+    width: 400px;
+    padding: 25px 50px;
+}
+
+.product-1 img {
+    width: 280px;
+}
+
+.product-1 h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 15px 0;
+}
+
+.product-1 span {
+    display: block;
+    font-size: 20px;
+    font-weight: 800;
+    color: #e83d2c;
+    margin-bottom: 15px;
+}
+
+.news {
+    padding: 100px 0;
+    background-color: #e83d2c;
+}
+
+.news-content {
+    display: flex;
+    align-items: center;
+}
+
+.news-1 {
+    padding-left: 100px;
+    width: 50%;
+}
+
+.news-1 h3 {
+    font-size: 30px;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.news-1 p {
+    color: #dcdcdc;
+}
+
+.news-2 {
+    width: 50%;
+}
+
+form {
+    display: flex;
+    align-items: center;
+}
+
+input {
+    width: 450px;
+    padding: 15px;
+    border: 0;
+    outline: none;
+    margin-right: 10px;
+}
+
+.btn-2 {
+    width: 150px;
+    background-color: #f5be26;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.map {
+    -webkit-filter: grayscale(100%);
+}
+
+.footer {
+    background-color: #171717;
+    padding: 100px 0;
+    margin-top: -7px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.link h3 {
+    color: #ffffff;
+    font-size: 18px;
+    margin-bottom: 18px;
+}
+
+.link a {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #dcdcdc;
+}
+
+.link a:hover {
+    color: #e83d2c;
+}
+
+@media(max-width:991px) {
+    
+    .menu {
+        padding: 30px;
+    }
+   
+    .menu label {
+        display: initial;
+    }
+   
+    .menu .navbar {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: #f5be26;
+        display: none;
+    }
+   
+    .menu .navbar ul li {
+        width: 100%;
+    }
+  
+    #menu:checked ~ .navbar {
+        display: initial;
+    }
+  
+    .header {
+        min-height: 0vh;
+        background-position: left bottom;
+
+    }
+
+    .header-content {
+        padding: 100px 30px 30px 30px;
+    }
+
+
+    .header-txt {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-txt h1 {
+        font-size: 70px;
+        line-height: 70px;
+    }
+
+    .about {
+        padding: 30px 30px 0 30px;
+        flex-direction: column;
+    }
+
+    .about-img {
+        width: 100%;
+        order: 2;
+    }
+
+    .about-img img {
+        height: 400px;
+    }
+    
+
+    .about-txt {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .ofert {
+        pad: 30px 30px 0 30px;
+    }
+
+    .ofert img {
+        width: 100%;
+    }
+
+    .product {
+        padding: 30px;
+    }
+
+    .product-content {
+        margin: 0;
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    .product-1 {
+        width: 100%;
+        padding: 0;
+    }
+
+    .news {
+        padding: 30px;
+    }
+
+    .news-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .news-1 , .news-2 {
+        padding: 0;
+        width: 100%;
+    }
+
+    .footer {
+        padding: 30px;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    
+
+}
