@@ -48,7 +48,7 @@
 
         <div class="about-txt">
             <span class="oferta">Ofertas</span>
-            <h2>100% Ingredientes saludables</h2>
+            <h2>Ingredientes 100% saludables</h2>
             <p>
 
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt molestias quos dolore quam facilis vel tempora et dignissimos veritatis minus placeat amet, exercitationem ad odio eius aliquid nihil recusandae voluptas.
