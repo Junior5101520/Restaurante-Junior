@@ -20,8 +20,7 @@
              <nav class="navbar">
                   <ul>
                      <li><a href="../Acerca de/acerca.php">Acerca de</a></li>
-                     <li><a href="../Pedidos/pedidos.php">Pedidos</a></li>
-                     <li><a href="../Contactanos/contactanos.php">Contactanos</a></li>
+                     <li><a href="../Informacion/informacion.php">Informacion</a></li>
                      <li><a href="./cierre.php">Cerrar</a></li>
                  </ul>
             </nav>
@@ -81,82 +80,90 @@
             <div class="product-1">
                 <img src="./Lechona-plato.jpg" alt="">
                 <h3>Plato #1</h3>
-                <span>$14.000</span>
+                <span>$30.000</span>
                 <p>
-                    Todo lo que te gusta en un solo click 750gr
+                    Plato Premium 750gr
                 </p>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
-        </div>
+        
 
         <div class="product-1">
                 <img src="./Lechona-plato.jpg" alt="">
                 <h3>Plato #2</h3>
-                <span>$14.000</span>
+                <span>$28.000</span>
                 <p>
-                    Todo lo que te gusta en un solo click 700gr
+                    Plato Semi-Premium 700gr
                 </p>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
                 <img src="./Lechona-plato.jpg" alt="">
                 <h3>Plato #3</h3>
-                <span>$14.000</span>
+                <span>$26.000</span>
                 <p>
-                    Todo lo que te gusta en un solo click 650gr
+                    Plato Vip 650gr
                 </p>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
                 <img src="./Lechona-plato.jpg" alt="">
                 <h3>Plato #4</h3>
-                <span>$14.000</span>
+                <span>$24.000</span>
                 <p>
-                    Todo lo que te gusta en un solo click 600gr
+                    Plato Medium 600gr
                 </p>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
                 <img src="./Lechona-plato.jpg" alt="">
                 <h3>Plato #5</h3>
-                <span>$14.000</span>
+                <span>$22.000</span>
                 <p>
-                    Todo lo que te gusta en un solo click 550gr
+                    Plato Orchs 550gr
                 </p>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
                 <img src="./Lechona-plato.jpg" alt="">
                 <h3>Plato #6</h3>
-                <span>$14.000</span>
+                <span>$20.000</span>
                 <p>
-                    Todo lo que te gusta en un solo click 500gr
+                    Plato Madre 500gr
                 </p>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
                 <img src="./Lechona-plato.jpg" alt="">
                 <h3>Plato #7</h3>
-                <span>$14.000</span>
+                <span>$18.000</span>
                 <p>
-                    Todo lo que te gusta en un solo click 450gr
+                    Plato Padre 450gr
                 </p>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
                 <img src="./Lechona-plato.jpg" alt="">
                 <h3>Plato #8</h3>
-                <span>$14.000</span>
+                <span>$16.000</span>
                 <p>
-                    Todo lo que te gusta en un solo click 400gr
+                    Plato Gronch 400gr
                 </p>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
@@ -165,10 +172,13 @@
                 <h3>Plato #9</h3>
                 <span>$14.000</span>
                 <p>
-                    Todo lo que te gusta en un solo click 350gr
+                    Plato Base 350gr
                 </p>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
-            <a href="#" class="btn-1">Informacion</a>
+
+        </div>
+
     </main>
   
     <section class="news">
@@ -199,7 +209,7 @@
 
     <section class="maps">
 
-    <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127056.70372120255!2d-73.62730299999994!3d5.637331950000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e41d1ea7c635d31%3A0xb2aae31b25b8150e!2zU3V0YW1hcmNow6FuLCBCb3lhY8Oh!5e0!3m2!1ses!2sco!4v1686677235182!5m2!1ses!2sco" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d933.2027470743155!2d-73.60487873045443!3d5.620711999647528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNcKwMzcnMTQuNiJOIDczwrAzNicxNS4zIlc!5e1!3m2!1ses!2sco!4v1687717271445!5m2!1ses!2sco" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
     </section>
 

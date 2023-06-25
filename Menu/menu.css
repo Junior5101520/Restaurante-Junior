@@ -259,9 +259,7 @@ input {
     color: #ffffff;
 }
 
-.map {
-    -webkit-filter: grayscale(100%);
-}
+
 
 .footer {
     background-color: #171717;

@@ -14,14 +14,14 @@ if (isset($_POST['correo']) && isset($_POST['contrasena'])) {
 
     // Verificar si se dejaron campos vacíos
     if (empty($correo) || empty($contrasena)) {
-        echo "Por favor, completa todos los campos.";
+        echo "Por Favor, Completa Todos Los Campos.";
     } else {
         // Establecer la conexión con la base de datos
         $conexion = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
 
         // Verificar si la conexión fue exitosa
         if ($conexion->connect_error) {
-            die("Error de conexión: " . $conexion->connect_error);
+            die("Error De Conexión: " . $conexion->connect_error);
         }
 
         // Consultar la base de datos para verificar las credenciales del usuario
@@ -37,7 +37,7 @@ if (isset($_POST['correo']) && isset($_POST['contrasena'])) {
             exit();
         } else {
             // Credenciales incorrectas
-            echo "Nombre de usuario o contraseña incorrectos.";
+            echo "Nombre De Usuarios o Contraseña Incorrectos.";
         }
 
         // Cerrar la conexión con la base de datos

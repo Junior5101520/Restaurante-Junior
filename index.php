@@ -57,7 +57,7 @@ include ('iniciarsesion.php');
 
         <div class="form-box register">
             <h2>Registrarse</h2>
-            <form action="#">
+            <form action="procesar_registro.php" method="POST">
                 
                 <div class="input-box">
                     <span class="icon"><ion-icon name="person"></ion-icon></span>
