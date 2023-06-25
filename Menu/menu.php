@@ -65,8 +65,9 @@
     </section>
 
     <section class="ofert container">
-        <img src="./lechona-24-1.jpg">
+        <img src="./colechoneriaedgar-1666389527943.jpg">
         <img src="./4-3.jpg">
+        <img src="./lechona_0.jpg.webp">
     </section>
 
     <main class="product container">
@@ -179,7 +180,7 @@
                  <h3>Al pendiente de todas las noticias</h3>
 
                      <p>
-                           Todo lo que te gusta en un solo click
+                           Introduce tu correo y quedate al pendiente de nuestros cambios :)
                      </p>
 
             </div>

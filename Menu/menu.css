@@ -167,7 +167,7 @@ p {
 .ofert img {
     width: 400px;
 }
-
+ 
 
 .product {
     text-align: center;
@@ -178,8 +178,9 @@ p {
 .product-content {
     margin: 50px 0 70px 0;
     display: grid;
-    grid-template-columns: repeat(0,1fr);
+    grid-template-columns: repeat(3,1fr);
 }
+
 
 .product-1 {
     width: 400px;
@@ -187,7 +188,7 @@ p {
 }
 
 .product-1 img {
-    width: 280px;
+    width: 200px;
 }
 
 .product-1 h3 {
@@ -210,9 +211,10 @@ p {
     background-color: #e83d2c;
 }
 
-.news-content {
+.news-container {
     display: flex;
     align-items: center;
+    
 }
 
 .news-1 {
@@ -380,6 +382,7 @@ input {
         grid-template-columns: repeat(1,1fr);
     }
 
+    
     .product-1 {
         width: 100%;
         padding: 0;

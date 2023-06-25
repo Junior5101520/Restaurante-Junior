@@ -20,10 +20,8 @@ include ('iniciarsesion.php');
             
             <h2 class="logo">EL LEGADO DE PAPÁ</h2>
              <nav class="navigation">
-                 <a href="./Acerca de/acerca.php">Acerca de</a>
-                 <a href="./Pedidos/pedidos.php">Pedidos</a>
-                 <a href="./Contactanos/contactanos.php">Contactanos</a>
-                 <a href="./cierre.php">Cerrar</a>
+ 
+        
                  <button class="btnLogin-popup">Ingresar</button>
              </nav>
              
