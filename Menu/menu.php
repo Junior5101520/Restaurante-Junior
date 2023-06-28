@@ -78,101 +78,101 @@
 
         <div class="product-content">
             <div class="product-1">
-                <img src="./Lechona-plato.jpg" alt="">
-                <h3>Plato #1</h3>
+                <img src="./colechoneriaedgar-1666389527943.jpg" alt="">
+                <h3>Plato Premium</h3>
                 <span>$30.000</span>
                 <p>
-                    Plato Premium 750gr
+                     750gr
                 </p>
-                <input type="submit" class="btn-2" value="Ordenar">
+                <button class="btn-add-cart">ORDENAR</button>
             </div>
 
 
         
 
         <div class="product-1">
-                <img src="./Lechona-plato.jpg" alt="">
-                <h3>Plato #2</h3>
+                <img src="./colechoneriaedgar-1666389527943.jpg" alt="">
+                <h3>Plato Semi-Premium</h3>
                 <span>$28.000</span>
                 <p>
-                    Plato Semi-Premium 700gr
+                     700gr
                 </p>
                 <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
-                <img src="./Lechona-plato.jpg" alt="">
-                <h3>Plato #3</h3>
+                <img src="./colechoneriaedgar-1666389527943.jpg" alt="">
+                <h3>Plato Vip</h3>
                 <span>$26.000</span>
                 <p>
-                    Plato Vip 650gr
+                     650gr
                 </p>
                 <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
-                <img src="./Lechona-plato.jpg" alt="">
-                <h3>Plato #4</h3>
+                <img src="./colechoneriaedgar-1666389527943.jpg" alt="">
+                <h3>Plato Medium</h3>
                 <span>$24.000</span>
                 <p>
-                    Plato Medium 600gr
+                     600gr
                 </p>
                 <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
-                <img src="./Lechona-plato.jpg" alt="">
-                <h3>Plato #5</h3>
+                <img src="./colechoneriaedgar-1666389527943.jpg" alt="">
+                <h3>Plato Orchs</h3>
                 <span>$22.000</span>
                 <p>
-                    Plato Orchs 550gr
+                     550gr
                 </p>
                 <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
-                <img src="./Lechona-plato.jpg" alt="">
-                <h3>Plato #6</h3>
+                <img src="./colechoneriaedgar-1666389527943.jpg" alt="">
+                <h3>Plato Madre</h3>
                 <span>$20.000</span>
                 <p>
-                    Plato Madre 500gr
+                     500gr
                 </p>
                 <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
-                <img src="./Lechona-plato.jpg" alt="">
-                <h3>Plato #7</h3>
+                <img src="./colechoneriaedgar-1666389527943.jpg" alt="">
+                <h3>Plato Padre</h3>
                 <span>$18.000</span>
                 <p>
-                    Plato Padre 450gr
+                     450gr
                 </p>
                 <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
-                <img src="./Lechona-plato.jpg" alt="">
-                <h3>Plato #8</h3>
+                <img src="./colechoneriaedgar-1666389527943.jpg" alt="">
+                <h3>Plato Gronch</h3>
                 <span>$16.000</span>
                 <p>
-                    Plato Gronch 400gr
+                     400gr
                 </p>
                 <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
             <div class="product-1">
-                <img src="./Lechona-plato.jpg" alt="">
-                <h3>Plato #9</h3>
+                <img src="./colechoneriaedgar-1666389527943.jpg" alt="">
+                <h3>Plato Base</h3>
                 <span>$14.000</span>
                 <p>
-                    Plato Base 350gr
+                     350gr
                 </p>
                 <input type="submit" class="btn-2" value="Ordenar">
             </div>

@@ -61,18 +61,18 @@ include ('iniciarsesion.php');
                 
                 <div class="input-box">
                     <span class="icon"><ion-icon name="person"></ion-icon></span>
-                    <input type="text" required>
+                    <input type="text" name="nombre" required>
                     <label>Nombre</label>
                 </div>
 
                 <div class="input-box">
                     <span class="icon"><ion-icon name="mail"></ion-icon></span>
-                    <input type="email" required>
+                    <input type="email" name="correo" required>
                     <label>Correo</label>
                 </div>
                 <div class="input-box">
                     <span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
-                    <input type="password" required>
+                    <input type="password" name="contrasena" required>
                     <label>Contraseña</label>
                 </div>
                 <div class="remember-forgot">
@@ -85,6 +85,7 @@ include ('iniciarsesion.php');
                     
                 </div>
             </form>
+            
         </div>
 
     </div>

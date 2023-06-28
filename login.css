@@ -179,7 +179,7 @@ height: 520px;
     position: absolute;
     top: 50%;
     left: 5px;
-    transform: translateY(-50%);
+    transform: translateY(0%);
     font-size: 1em;
     color: #162938;
     font-weight: 500;
