@@ -79,13 +79,13 @@
                 @Junior
             </p>
             <div class="icons">
-                <i class="fa-brands fa-facebook-f"></i>
+            <i class="fa-brands fa-facebook"></i>
             </div>
          </div>
    
            
-    <script src="./acerca.js"></script>
+    
     
 </body>
-
+            <script src="./acerca.js"></script>
 </html>

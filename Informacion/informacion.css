@@ -88,7 +88,7 @@ header {
 .container {
     height: 450px;
     width: 300px;
-    box-shadow: 0 10px 20px #000;
+    box-shadow: 0 10px 20px #fefefe;
     background-size: cover;
     justify-content: center;
     align-items: center;
