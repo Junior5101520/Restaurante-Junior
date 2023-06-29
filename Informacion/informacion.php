@@ -37,10 +37,7 @@
                 @Junior
             </p>
             <div class="icons">
-                <i class="fa-brands fa-facebook-f"></i>
-                <i class="fa-brands fa-instagram"></i>
-                <i class="fa-brands fa-pinterest"></i>
-                <i class="fa-brands fa-twitter"></i>
+    
             </div>
          </div>
 
@@ -58,10 +55,7 @@
                 @Junior
             </p>
             <div class="icons">
-                <i class="fa-brands fa-facebook-f"></i>
-                <i class="fa-brands fa-instagram"></i>
-                <i class="fa-brands fa-pinterest"></i>
-                <i class="fa-brands fa-twitter"></i>
+ 
             </div>
          </div>
 
@@ -79,7 +73,7 @@
                 @Junior
             </p>
             <div class="icons">
-            <i class="fa-brands fa-facebook"></i>
+            
             </div>
          </div>
    
