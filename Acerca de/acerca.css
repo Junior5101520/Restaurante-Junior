@@ -75,7 +75,7 @@ navigation .btnLogin-popup{
     background: #fff;
     border-radius: 5px;
     transform-origin: right;
-    transform: scaleX(1);
+    transform: scaleX(0);
     transition: transform .5s;
 
 }
@@ -163,20 +163,3 @@ navigation .btnLogin-popup{
 .card:hover .back {
     transform: perspective(600px) rotateY(360deg);
 }
-
-.navigation a::after {
-    content: "";
-    position: absolute;
-    left: 0;    
-    bottom: -6px;
-    width: 100%;
-    height: 3px;
-    background: #fff;
-    border-radius: 5px;
-    transform-origin: right;
-    transform: scaleX(0);
-    transition: transform .5s;
-
-}
-
-

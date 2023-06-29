@@ -23,6 +23,65 @@
              
          </header>
 
+         <div class="container">
+            <div class="shape">
+                <div class="image"></div>
+            </div>
+            <h3>Steven Peña</h3>
+            <h4 class="title">Programador</h4>
+            <p>
+                TUNJA
+                <br>
+                19-DICIEMBRE-2004
+                <br>
+                @Junior
+            </p>
+            <div class="icons">
+                <i class="fa-brands fa-facebook-f"></i>
+                <i class="fa-brands fa-instagram"></i>
+                <i class="fa-brands fa-pinterest"></i>
+                <i class="fa-brands fa-twitter"></i>
+            </div>
+         </div>
+
+         <div class="container">
+            <div class="shape">
+                <div class="image"></div>
+            </div>
+            <h3>Steven Peña</h3>
+            <h4 class="title">Desarrolador</h4>
+            <p>
+                TUNJA
+                <br>
+                19-DICIEMBRE-2004
+                <br>
+                @Junior
+            </p>
+            <div class="icons">
+                <i class="fa-brands fa-facebook-f"></i>
+                <i class="fa-brands fa-instagram"></i>
+                <i class="fa-brands fa-pinterest"></i>
+                <i class="fa-brands fa-twitter"></i>
+            </div>
+         </div>
+
+         <div class="container">
+            <div class="shape">
+                <div class="image"></div>
+            </div>
+            <h3>Steven Peña</h3>
+            <h4 class="title">Administrador</h4>
+            <p>
+                TUNJA
+                <br>
+                19-DICIEMBRE-2004
+                <br>
+                @Junior
+            </p>
+            <div class="icons">
+                <i class="fa-brands fa-facebook-f"></i>
+            </div>
+         </div>
    
            
     <script src="./acerca.js"></script>
