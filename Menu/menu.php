@@ -84,7 +84,7 @@
                 <p>
                      750gr
                 </p>
-                <button class="btn-add-cart">ORDENAR</button>
+                <input type="submit" class="btn-2" value="Ordenar">
             </div>
 
 
