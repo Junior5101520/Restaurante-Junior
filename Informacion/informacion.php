@@ -14,7 +14,7 @@
      
         <header>
             
-            <h2 class="logo">EL LEGADO DE PAPÁ</h2>
+            <h2 class="logo">COLABORADORES</h2>
              <nav class="navigation">
                  <a href="../Menu/menu.php">Menu</a>
                  <a href="../Acerca de/acerca.php">Acerca de</a>
@@ -32,7 +32,7 @@
             <p>
                 TUNJA
                 <br>
-                19-DICIEMBRE-2004
+                29-06-2023
                 <br>
                 @Junior
             </p>
@@ -50,7 +50,7 @@
             <p>
                 TUNJA
                 <br>
-                19-DICIEMBRE-2004
+                29-06-2023
                 <br>
                 @Junior
             </p>
@@ -68,7 +68,7 @@
             <p>
                 TUNJA
                 <br>
-                19-DICIEMBRE-2004
+                29-06-2023
                 <br>
                 @Junior
             </p>
