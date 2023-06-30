@@ -6,6 +6,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pagina</title>
      <link rel="stylesheet" href="./menu.css">
+         <script src="https://kit.fontawesome.com/ceba330f95.js" crossorigin="anonymous"></script>
  </head>
  <body>
      <header class="header">
@@ -217,43 +218,31 @@
     <footer class="footer">
         <div class="footer-content container">
             <div class="link">
-                <h3>Lorem</h3>
-                <ul>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                </ul>
+                <h3>UBICACION</h3>
+                
+                <i class="fa-solid fa-compass fa-2xl" style="color: #6d49d0;"></i>
+                
             </div>
 
             <div class="link">
-                <h3>Lorem</h3>
-                <ul>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                </ul>
+                <h3>TELEFONO</h3>
+                
+                <i class="fa-sharp fa-solid fa-phone-volume fa-2xl" style="color: #26cdd9;"></i>
+                
             </div>
 
             <div class="link">
-                <h3>Lorem</h3>
-                <ul>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                </ul>
+                <h3>FACEBOOK</h3>
+                
+                <i class="fa-brands fa-facebook fa-2xl" style="color: #0b5dea;"></i>
+                
             </div>
 
             <div class="link">
-                <h3>Lorem</h3>
-                <ul>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                    <li><a href="#">Lorem</a></li>
-                </ul>
+                <h3>WHATSAPP</h3>
+                
+                <i class="fa-brands fa-whatsapp fa-2xl" style="color: #20ac64;"></i>
+                
             </div>
         </div>
     </footer>
