@@ -147,13 +147,15 @@ header {
 }
 
 .card .back h3 {
+    color: aqua;
     font-size: 30px;
-    margin-top: 20px;
+    margin-top: 1px;
     letter-spacing: 2px;
 }
 
 .card .back p {
     letter-spacing: 1px;
+    color: #fff;
 }
 
 .card:hover .front {

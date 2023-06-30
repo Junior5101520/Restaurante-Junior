@@ -27,7 +27,7 @@
      
          <div class="card">
             <div class="face front">
-                <img src="./misioncomedor-restaurante-alacarta-02.jpg" alt="">
+                <img src="./photo1jpg.jpg" alt="">
                 <h3>Mision</h3>
             </div>
             <div class="face back">
@@ -41,7 +41,7 @@
 
          <div class="card">
             <div class="face front">
-                <img src="./misioncomedor-restaurante-alacarta-04.jpg" alt="">
+                <img src="./photo1jpg.jpg" alt="">
                 <h3>Vision</h3>
             </div>
             <div class="face back">
