@@ -48,19 +48,19 @@
 
         <div class="about-txt">
             <span class="oferta">Ofertas</span>
-            <h2>Ingredientes 100% saludables</h2>
+            <h2>Ingredientes Naturales</h2>
             <p>
 
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt molestias quos dolore quam facilis vel tempora et dignissimos veritatis minus placeat amet, exercitationem ad odio eius aliquid nihil recusandae voluptas.
+            La lechona es un delicioso plato tradicional de la gastronomía colombiana que suele ser el centro de atención en celebraciones y festividades. Consiste en un cerdo entero deshuesado y relleno con una mezcla de arroz, carne de cerdo, cebolla, ajo y especias.
 
             </p>
 
             <p>
 
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt molestias quos dolore quam facilis vel tempora et dignissimos veritatis minus placeat amet, exercitationem ad odio eius aliquid nihil recusandae voluptas.
+            La preparación de la lechona es un proceso laborioso y requiere de varias horas de cocción lenta en un horno especial. Esto permite que la piel del cerdo se vuelva crujiente y dorada, mientras que el interior se cocina lentamente, fusionando los sabores de los ingredientes.
 
             </p>
-            <a href="#" class="btn-1">Informacion</a>
+           
         </div>
     </section>
 
@@ -218,20 +218,6 @@
     <footer class="footer">
         <div class="footer-content container">
             <div class="link">
-                <h3>UBICACION</h3>
-                
-                <i class="fa-solid fa-compass fa-2xl" style="color: #6d49d0;"></i>
-                
-            </div>
-
-            <div class="link">
-                <h3>TELEFONO</h3>
-                
-                <i class="fa-sharp fa-solid fa-phone-volume fa-2xl" style="color: #26cdd9;"></i>
-                
-            </div>
-
-            <div class="link">
                 <h3>FACEBOOK</h3>
                 
                 <i class="fa-brands fa-facebook fa-2xl" style="color: #0b5dea;"></i>
@@ -240,8 +226,22 @@
 
             <div class="link">
                 <h3>WHATSAPP</h3>
-                
+
                 <i class="fa-brands fa-whatsapp fa-2xl" style="color: #20ac64;"></i>
+                
+            </div>
+
+            <div class="link">
+                <h3>INSTAGRAM</h3>
+
+                <i class="fa-brands fa-instagram fa-2xl" style="color: #d33c61;"></i>
+
+            </div>
+
+            <div class="link">
+                <h3>TELEFONO</h3>
+
+                <i class="fa-sharp fa-solid fa-phone-volume fa-2xl" style="color: #26cdd9;"></i>
                 
             </div>
         </div>

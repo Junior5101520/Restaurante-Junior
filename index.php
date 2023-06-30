@@ -15,17 +15,13 @@ include ('iniciarsesion.php');
     
 </head>
 <body>
-     
         <header>
             
             <h2 class="logo">EL LEGADO DE PAPÁ</h2>
              <nav class="navigation">
- 
-        
                  <button class="btnLogin-popup">Ingresar</button>
              </nav>
-             
-    </header>
+        </header>
 
     <div class="wrapper">
 
@@ -58,7 +54,7 @@ include ('iniciarsesion.php');
         <div class="form-box register">
             <h2>Registrarse</h2>
             <form action="procesar_registro.php" method="POST">
-                
+        
                 <div class="input-box">
                     <span class="icon"><ion-icon name="person"></ion-icon></span>
                     <input type="text" name="nombre" required>
